@@ -41,7 +41,14 @@ int main(int argc, char* argv[]) {
         perror("Empty file!\n");
         return 0;
     }
-
+    printf("       _    _____    ____    _   _                                              \n"
+           "      | |  / ____|  / __ \\  | \\ | |                                             \n"
+           "      | | | (___   | |  | | |  \\| |    _ __     __ _   _ __   ___    ___   _ __ \n"
+           "  _   | |  \\___ \\  | |  | | | . ` |   | '_ \\   / _` | | '__| / __|  / _ \\ | '__|\n"
+           " | |__| |  ____) | | |__| | | |\\  |   | |_) | | (_| | | |    \\__ \\ |  __/ | |   \n"
+           "  \\____/  |_____/   \\____/  |_| \\_|   | .__/   \\__,_| |_|    |___/  \\___| |_|   \n"
+           "                                      | |                                       \n"
+           "                                      |_|                                       \n\n\n");
     printf("Welcome to my JSON parser!\n");
     printf("To exit, type \"exit\". If you need help, type \"help\"\n");
     printf("$ JSON-parser: enter key (if nested keys, separated by \"->\")\n");
