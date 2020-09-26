@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="JSON_Parser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="JSON_Parser">
+				<Option output="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/JSON_Parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 JSON_Parser"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="JSON_Parser/fast">
+				<Option output="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/JSON_Parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 JSON_Parser/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Projects/C/JSON-Parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/file_operations.c">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/file_operations.h">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/main.c">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/parser.c">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/parser.h">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/printers.c">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/printers.h">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/types.h">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/utils.c">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/utils.h">
+			<Option target="JSON_Parser"/>
+		</Unit>
+		<Unit filename="/mnt/c/Projects/C/JSON-Parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
