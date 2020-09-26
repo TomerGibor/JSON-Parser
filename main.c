@@ -43,6 +43,7 @@ int main(int argc, char* argv[]) {
     }
 
     printf("Welcome to my JSON parser!\n");
+    printf("To exit, type \"exit\". If you need help, type \"help\"\n");
     printf("$JSON-parser: enter key (if nested keys, separated by \"->\")\n");
     while(1){
         memset(received_keys, 0, MAX_KEYS_LENGTH); // empty out old received keys
