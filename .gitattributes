@@ -1,1 +1,3 @@
+# reclassify make files as C files in statistics, so as to classify this project as a C project, as all of it is written in C
 *.cmake linguist-language=C
+*.make linguist-language=C
