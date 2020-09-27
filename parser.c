@@ -63,6 +63,7 @@ char* is_value_json_object(char* end_pos_of_key, int* length) {
     unsigned int num_opening_curly_brackets = 0, last_character_backslash = 0, in_string = 0;
     char* start = NULL;
 
+    *length = 0;
     while (1) {
         if(is_space_character(*end_pos_of_key))
             end_pos_of_key++; // if space character, continue to next character
