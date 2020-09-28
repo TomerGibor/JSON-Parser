@@ -28,10 +28,6 @@ C:/Projects/C/JSON-Parser/file_operations.h
 printers.h
 C:/Projects/C/JSON-Parser/printers.h
 
-C:/Projects/C/JSON-Parser/parser.c
-parser.h
-C:/Projects/C/JSON-Parser/parser.h
-
 C:/Projects/C/JSON-Parser/parser.h
 stdlib.h
 -
@@ -39,10 +35,6 @@ types.h
 C:/Projects/C/JSON-Parser/types.h
 utils.h
 C:/Projects/C/JSON-Parser/utils.h
-
-C:/Projects/C/JSON-Parser/printers.c
-printers.h
-C:/Projects/C/JSON-Parser/printers.h
 
 C:/Projects/C/JSON-Parser/printers.h
 stdio.h
@@ -55,10 +47,6 @@ utils.h
 C:/Projects/C/JSON-Parser/utils.h
 
 C:/Projects/C/JSON-Parser/types.h
-
-C:/Projects/C/JSON-Parser/utils.c
-utils.h
-C:/Projects/C/JSON-Parser/utils.h
 
 C:/Projects/C/JSON-Parser/utils.h
 stdlib.h

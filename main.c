@@ -34,7 +34,7 @@ void retrieve_values_until_exit(KEY* keys){
         printf("$ JSON-parser: ");
         fgets(received_keys, MAX_KEYS_LENGTH, stdin);
         if(strncmp(received_keys, EXIT, sizeof(EXIT) - 1) == 0){
-            printf("Thanks for choosing my JSON parser, have a nice day!");
+            printf("Thanks for choosing my JSON parser, have a nice day!\n");
             return;
         }
         else if(strncmp(received_keys, HELP, sizeof(HELP) - 1) == 0){
@@ -51,7 +51,7 @@ int main(int argc, char* argv[]) {
     KEY* keys = NULL;
 
     if(argc != 2){
-        printf("USAGE: %s <file_name>", argv[0]);
+        printf("USAGE: %s <file_name>\n", argv[0]);
         return 0;
     }
 
