@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Projects/C/JSON-Parser
--- Configuring done
--- Generating done
--- Build files have been written to: /mnt/c/Projects/C/JSON-Parser/cmake-build-debug

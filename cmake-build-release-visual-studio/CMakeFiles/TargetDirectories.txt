@@ -1,0 +1,3 @@
+C:/Projects/C/JSON-Parser/cmake-build-release-visual-studio/CMakeFiles/JSON_Parser.dir
+C:/Projects/C/JSON-Parser/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+C:/Projects/C/JSON-Parser/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir

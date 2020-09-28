@@ -1,3 +1,0 @@
-/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/CMakeFiles/JSON_Parser.dir
-/mnt/c/Projects/C/JSON-Parser/cmake-build-debug/CMakeFiles/edit_cache.dir

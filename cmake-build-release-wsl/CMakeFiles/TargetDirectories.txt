@@ -1,0 +1,3 @@
+/mnt/c/Projects/C/JSON-Parser/cmake-build-release-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/c/Projects/C/JSON-Parser/cmake-build-release-wsl/CMakeFiles/JSON_Parser.dir
+/mnt/c/Projects/C/JSON-Parser/cmake-build-release-wsl/CMakeFiles/edit_cache.dir
