@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "types.h"
+#include "utils.h"
 #include "parser.h"
 #include "file_operations.h"
 #include "printers.h"
@@ -11,15 +12,6 @@
 #define EXIT "exit"
 #define HELP "help"
 
-void free_keys(KEY* head){
-    KEY *cur = head, *next = NULL;
-
-    while(cur != NULL){
-        next = cur->next;
-        free(cur);
-        cur = next;
-    }
-}
 void print_welcome_message(){
     printf("       _    _____    ____    _   _                                              \n"
            "      | |  / ____|  / __ \\  | \\ | |                                             \n"

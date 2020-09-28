@@ -21,6 +21,7 @@ CMakeFiles\JSON_Parser.dir\printers.c.obj: ..\printers.h
 CMakeFiles\JSON_Parser.dir\printers.c.obj: ..\types.h
 CMakeFiles\JSON_Parser.dir\printers.c.obj: ..\utils.h
 
+CMakeFiles\JSON_Parser.dir\utils.c.obj: ..\types.h
 CMakeFiles\JSON_Parser.dir\utils.c.obj: ..\utils.c
 CMakeFiles\JSON_Parser.dir\utils.c.obj: ..\utils.h
 

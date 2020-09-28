@@ -23,6 +23,8 @@ string.h
 -
 types.h
 /mnt/c/Projects/C/JSON-Parser/types.h
+utils.h
+/mnt/c/Projects/C/JSON-Parser/utils.h
 parser.h
 /mnt/c/Projects/C/JSON-Parser/parser.h
 file_operations.h
@@ -63,4 +65,8 @@ utils.h
 /mnt/c/Projects/C/JSON-Parser/utils.h
 
 /mnt/c/Projects/C/JSON-Parser/utils.h
+stdlib.h
+-
+types.h
+/mnt/c/Projects/C/JSON-Parser/types.h
 

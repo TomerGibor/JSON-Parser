@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Projects/C/JSON-Parser/file_operations.c
-file_operations.h
-C:/Projects/C/JSON-Parser/file_operations.h
-
 C:/Projects/C/JSON-Parser/file_operations.h
 stdlib.h
 -
@@ -23,6 +19,8 @@ string.h
 -
 types.h
 C:/Projects/C/JSON-Parser/types.h
+utils.h
+C:/Projects/C/JSON-Parser/utils.h
 parser.h
 C:/Projects/C/JSON-Parser/parser.h
 file_operations.h
@@ -63,4 +61,8 @@ utils.h
 C:/Projects/C/JSON-Parser/utils.h
 
 C:/Projects/C/JSON-Parser/utils.h
+stdlib.h
+-
+types.h
+C:/Projects/C/JSON-Parser/types.h
 
